@@ -1,2 +1,2 @@
 # UFF
-Trabalhos da faculdade
+Abrir sempre como projeto
