@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1540599622 source:d:\codigos\tcp servidor\main.c
+	"locale.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<pthread.h>
+	<winsock2.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+
+1541535506 source:d:\codigos\protocolo2\tcp servidor\main.c
+	"locale.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<pthread.h>
+	<winsock2.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+
+1541455140 source:c:\users\benne\onedrive\Área de trabalho\tcp servidor\tcp servidor - copia\tcp servidor\main.c
+	"locale.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<pthread.h>
+	<winsock2.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+
+1541622603 source:c:\users\lucas\onedrive\Área de trabalho\tcp cliente - copia\tcp servidor\main.c
+	"locale.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<pthread.h>
+	<winsock2.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+
+1541622604 source:d:\codigos\tcp cliente - copia\tcp servidor\main.c
+	"locale.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<pthread.h>
+	<winsock2.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+
+1541622604 source:c:\users\lucas\downloads\telegram desktop\tcp cliente - copia\tcp cliente - copia\tcp servidor\main.c
+	"locale.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<pthread.h>
+	<winsock2.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+
+1556839467 source:c:\users\lucas\downloads\telegram desktop\trabalho pronto\tcp servidor\main.c
+	"locale.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<pthread.h>
+	<winsock2.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+
