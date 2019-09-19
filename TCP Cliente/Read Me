@@ -1,0 +1,3 @@
+Ir em Project -> Set Program's arguments e colocar:
+127.0.0.1  "d006;Testa;"
+ip(127.0.0.1 para usar no mesmo PC) e argumentos obrigatórios(  "d006;Testa;")
