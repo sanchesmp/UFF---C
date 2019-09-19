@@ -1,0 +1,40 @@
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+T                                                                                                  T
+T   AAAA    AAA   AAAAA    AAA         AAAAAAA MMMMMMMM  AAAAAAAAA          AAAAAAAAAAA            T
+T  AAAAAA  AAAAA AAAAAAA  AAAAA        MMMMMMM M LOJA M AAAAAAAAAAA        AAAAAAAAAAAAAA          T
+T  MMMMMM  MMMMM MMMMMMM  MMMMM        M MMMMM MMMMMMMM MMMMMMMMMMM        MMMMMMMMMMMMMM          T
+T  MM MMM  MM MM MM MMMM  MM MM        MMM MMM MMMM MMM MM MM M MMM        MMMM MM MMM MM          T
+T .........................................................................................        T
+T                                                                                                  T
+T   AAAAA   AAA      AAAAAA          AAAAA                         U   U    AAAAAAAAA   AAAAAAA    T
+T  AAAAAAA AAAAA    AAAAAAAA        AAAAAAA                      AAAAAAAAAA MMMMMMMMM   MMMMMMM    T
+T  MMMMMMM MMMMM    MMMMMMMM        MMMMMMM                      MMMMMMMMMM M M M M M   MMMMMMM    T
+T  MMMM MM MM MM    MM MMMMM        MM MMMM                      MMMM MMMMM MMMM MMMM   MMM MMM    T
+T                                                                                                  T
+T                                            F                F                                    T
+T                                          AAAA            AAAA                                    T
+T                               F          M  M            M  M            F                       T
+T                          .   AA   AAAAAAMMMMAAAAAAAAAAAAMMMMAAAAAAA     AAA  .                   T
+T                          .  AAAA  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM    AAAAA .                   T
+T                          .  M  M  MMMMM   MMMMMMMMMMMMMMMMMMMMM   MMM  M   M .                   T
+T                          .  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM .                   T
+T                          .  MMMMMMM MMMM  MMMMMM        MMMMMMM  MMMM  MMMMM .                   T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T  AAAAAAAAA  AAAAA       AAAAAA                                                                   T
+T  MMMMMMMMM AAAAAAA     AAAAAAAA                                            T                     T
+T  MMMMMMMMM MMMMMMM     MMMMMMMM                                           AAA                    T
+T  MMM MMMMM MMM MMM     MMMM MMM                                          AAAAA   .               T
+T                                                                          M U M   .               T
+T                                                                         MMMMMMM  .               T
+T                 AAAAA                                         AAAAAAAAAAMMMMMMM  .               T
+T  AAAAAAAAA     AAAAAAA                                        MMMMMMMMMMMMMMMMM  .               T
+T  MMMMMMMMM     MMMMMMM                                        MMMMMMMMMMMMM MMM  .               T
+T  MMM MMMMM     MM MMMM                                                                           T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT

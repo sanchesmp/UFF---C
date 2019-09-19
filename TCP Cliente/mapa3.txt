@@ -1,0 +1,40 @@
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+T                                                                                                  T
+T                       #################              #################                           T
+T                       # #           # #              # #           # #                           T
+T                        #             #                #             #                            T
+T                       # #           # #              # #           # #                           T
+T                        #             #                #             #                            T
+T                       # #           # #              # #           # #                           T
+T                                                                                                  T
+T          ___________                                                        ___________          T
+T          \         /                                                        \         /          T
+T           |       |                                                          |       |           T
+T           |       |                                                          |       |           T
+T           |       |                                                          |       |           T
+T           |       |                                                          |       |           T
+T           |       |                                                          |       |           T
+T           |       |                                                          |       |           T
+T           |       |                                                          |       |           T
+T           |       |                                                          |       |           T
+T          |_________|                                                        |_________|          T
+T           |_______|                                                          |_______|           T
+T            |_____|                                                            |_____|            T
+T           |_______|                                                          |_______|           T
+T         _|_________|_                                                      _|_________|_         T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                       # #           # #              # #           # #                           T
+T                        #             #                #             #                            T
+T                       # #           # #              # #           # #                           T
+T                        #             #                #             #                            T
+T                       # #           # #              # #           # #                           T
+T                       #################              #################                           T
+T                                                                                                  T
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT

@@ -1,0 +1,148 @@
+# depslib dependency file v1.0
+1540600511 source:d:\codigos\tcp cliente\main.c
+	<pthread.h>
+	"locale.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<winsock2.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+
+1541457667 source:d:\codigos\protocolo2\tcp cliente\main.c
+	<pthread.h>
+	"locale.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<winsock2.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+
+1541537773 source:d:\codigos\protocolo2\tcp cliente - copia\main.c
+	<pthread.h>
+	"locale.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<winsock2.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+
+1541632771 source:c:\users\lucas\onedrive\Área de trabalho\tcp cliente - copia\tcp cliente - copia\main.c
+	<pthread.h>
+	"locale.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<winsock2.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+
+1542229202 source:d:\codigos\tcp cliente - copia\tcp cliente - copia\main.c
+	<pthread.h>
+	"locale.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<winsock2.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+
+1542234520 source:d:\codigos\tcp cliente - copia\tcp cliente - copia - copia\main.c
+	<pthread.h>
+	"locale.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<winsock2.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+
+1543624771 source:d:\codigos\tcp cliente - copia\tcp cliente - copia - copia - copia\main.c
+	<pthread.h>
+	"locale.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<winsock2.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+
+1544020204 source:c:\users\lucas\downloads\telegram desktop\tcp cliente - copia\tcp cliente - copia\tcp cliente - copia - copia - copia\main.c
+	<pthread.h>
+	"locale.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<winsock2.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+
+1556309873 source:c:\users\lucas\downloads\telegram desktop\trabalho pronto\tcp cliente - copia - copia - copia\main.c
+	<pthread.h>
+	"locale.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<winsock2.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+
+1556842862 source:c:\users\leosa\desktop\tcp cliente - copia - copia - copia\main.c
+	<pthread.h>
+	"locale.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	<windows.h>
+	<winsock2.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	"funcoes.h"
+
+1556888788 c:\users\leosa\desktop\tcp cliente - copia - copia - copia\funcoes.h
+
+1556777578 source:c:\users\lucas\downloads\telegram desktop\tcp cliente - copia - copia - copia\tcp cliente - copia - copia - copia\main.c
+	<pthread.h>
+	"locale.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	<windows.h>
+	<winsock2.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	"funcoes.h"
+
+1556770370 c:\users\lucas\downloads\telegram desktop\tcp cliente - copia - copia - copia\tcp cliente - copia - copia - copia\funcoes.h
+
+1556889200 source:c:\users\p-cre\desktop\tcp cliente - copia - copia - copia\main.c
+	<pthread.h>
+	"locale.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	<windows.h>
+	<winsock2.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	"funcoes.h"
+
+1556889238 c:\users\p-cre\desktop\tcp cliente - copia - copia - copia\funcoes.h
+

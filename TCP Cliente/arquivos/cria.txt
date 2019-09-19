@@ -1,0 +1,36 @@
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+T                                                                                                  T
+T                                                                                                  T
+T                 		Escolha uma classe                                                 T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                               _______________________                                            T
+T                               |    Guerreiro         |                                           T
+T                               |    Mago              |                                           T
+T                               |    Druida            |                                           T
+T                               |    Cacador           |                                           T
+T                               |______________________|                                           T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                     	      nome:                                                                T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT

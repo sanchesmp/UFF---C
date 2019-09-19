@@ -1,0 +1,40 @@
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+T    BBB     BBB                       BBB                                                         T
+T   BBBBB   BBBBB  B                  BBBBB                  BB                                    T
+T     H       H   BBB                   H               BB  BBBB BBB  B                            T
+T                  H                                  BBBBBBBBBBBBBBBBBB                           T
+T                                                    BBBBBBBBBBBBBBBBBBBB           BBB            T
+T                                                     BBBBBBBBBBBBBBBBBB           BBBBB           T
+T                                                          HHHHHHHH                  H             T
+T                                                         HHHHHHHHHH                     BBB       T
+T                                                                            BBB        BBBBB      T
+T                                                                           BBBBB         H        T
+T                                                                             H                    T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T    BBB     BBB                                                                                   T
+T   BBBBB   BBBBB                                                                                  T
+T     H       H      BBB                                           BB                              T
+T                   BBBBB                                        BBBBBB                            T
+T       BBB           H          BBBBB                          BBBBBBBB                           T
+T      BBBBB                    BBBBBBB                            HH                              T
+T        H                        HHH                                                              T
+T                                                                                                  T
+T                                                                                                  T
+T                BB BBB BB BB                                                                      T
+T              BBBBBBBBBBBBBBBB                                                                    T
+T             BBBBBBBBBBBBBBBBBB                                                                   T
+T              BBBBBBBBBBBBBBB                                                                     T
+T                   HHHHH                  BB                               BB                     T
+T                  HHHHHHH               BBBBBB                           BBBBBB                   T
+T                                       BBBBBBBB                         BBBBBBBB                  T
+T                                          HH                               HH                     T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT

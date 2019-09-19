@@ -1,0 +1,35 @@
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+T                                                                                                  T
+T                                                                                                  T
+T                 		Bem-Vindo Aventureiro                                              T
+T                                                                                                  T
+T                                                                                                  T
+T    A muito tempo, o reino dos refrigerantes ciberneticos viviam em plena harmonia, mas           T
+T    tudo isso mudou, quando os seguidores de Dollynho atacaram...                                 T
+T    Somente o grande escolhido Suvakhan eh capaz de enfrentar os grandes perigos e assim,         T
+T    restaurar o equilibrio entre os reinos refrigerantescos.                                      T
+T    Mas quando o mundo mais precisa dele... ele desaparece...                                     T
+T    Quem eh o escolhido, qual sera seu nome? e quando ele ira aparecer para salvar os reinos      T
+T    do malvado Dollynho... ate quando manteremos a esperança?                                     T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T                               _______________________                                            T
+T                               |    Nova Aventura     |                                           T
+T                               |______________________|                                           T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+T              moves: w,a,s,d         actions key: l                                               T
+T                                                                                                  T
+T                                                                                                  T
+T       obs: nao ousem ligar o caps look, senao o Dollynho vai pegar voces...                      T
+T            to falando serio!                                                                     T
+T                                                                                                  T
+T                                                                                                  T
+T                                                                                                  T
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
